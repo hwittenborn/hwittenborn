@@ -4,7 +4,9 @@ The main things I currently surround myself with include Linux, programming in R
 
 Currently my main focuses :technologist: are [makedeb](https://github.com/makedeb) and [Celeste](https://github.com/hwittenborn/celeste), though I'm often trying new things to see if I can find something that'll keep my curiosity going :bulb:.
 
-I'm currently looking for a job :memo: if you'd like to consider me to be part of your company. You can find my full skillset and resume :spiral_notepad: on my [LinkedIn profile](https://www.linkedin.com/in/hwittenborn/), and if you'd just like to learn more about me too, you can find all of that information over on my [website](https://hunterwittenborn.com) :globe_with_meridians:.
+You can join my [Discord server](https://discord.gg/FtNhPepvj7), where I regularly talk 😮 about stuff related to my projects and general life.
+
+I'm also currently looking for a job :memo: if you'd like to consider me to be part of your company. You can find my full skillset and resume :spiral_notepad: on my [LinkedIn profile](https://www.linkedin.com/in/hwittenborn/), and if you'd just like to learn more about me too, you can find all of that information over on my [website](https://hunterwittenborn.com) :globe_with_meridians:.
 
 I can be contacted via the email listed on my GitHub profile, as well as via any of the methods listed on my website, linked above.
 
