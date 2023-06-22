@@ -2,9 +2,9 @@ Hey :wave:! This is my GitHub profile, where I host all of the open-source proje
 
 The main things I currently surround myself with include Linux, programming in Rust, Debian packaging, and maintaining various servers I use on a daily basis :zap:.
 
-Currently my main focuses :technologist: are [makedeb](https://github.com/makedeb) and [Celeste](https://github.com/hwittenborn/celeste), though I'm often trying new things to see if I can find something that'll keep my curiosity going :bulb:.
+Currently my main focuses :technologist: are [makedeb](https://github.com/makedeb) and [Celeste](https://github.com/hwittenborn/celeste), though I'm often trying new things to see if I can find something that'll keep my curiosity going :nerd_face:.
 
-You can join my [Discord server](https://discord.gg/FtNhPepvj7), where I regularly talk 😮 about stuff related to my projects and general life.
+You can join my [Discord server](https://discord.gg/FtNhPepvj7), where I regularly talk :open_mouth: about stuff related to my projects and all the other random stuff that comes to mind :bulb:.
 
 I'm also currently looking for a job :memo: if you'd like to consider me to be part of your company. You can find my full skillset and resume :spiral_notepad: on my [LinkedIn profile](https://www.linkedin.com/in/hwittenborn/), and if you'd just like to learn more about me too, you can find all of that information over on my [website](https://hunterwittenborn.com) :globe_with_meridians:.
 
