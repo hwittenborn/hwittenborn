@@ -2,7 +2,7 @@ Hey :wave:! This is my GitHub profile, where I host all of the open-source proje
 
 The main things I currently surround myself with include Linux, programming in Rust, Debian packaging, and maintaining various servers I use on a daily basis :zap:.
 
-Currently my main focuses :technologist: are [Celeste](https://github.com/hwittenborn/celeste), [makedeb](https://github.com/makedeb) and [volcano-safety-project](https://github.com/hwittenborn/volcano-safety-project), though I'm often trying new things to see if I can find something that'll keep my curiosity going :nerd_face:.
+Currently my main focuses :technologist: are [Celeste](https://github.com/hwittenborn/celeste) and [makedeb](https://github.com/makedeb), though I'm often trying new things to see if I can find something that'll keep my curiosity going :nerd_face:.
 
 You can join my [Discord server](https://discord.gg/FtNhPepvj7), where I regularly talk :open_mouth: about stuff related to my projects and all the other random stuff that comes to mind :bulb:.
 
