@@ -4,7 +4,7 @@ The main things I currently surround myself with include Linux, programming in R
 
 Currently my main focuses :technologist: are [Celeste](https://github.com/hwittenborn/celeste) and [makedeb](https://github.com/makedeb), though I'm often trying new things to see if I can find something that'll keep my curiosity going :nerd_face:.
 
-You can join my [Discord server](https://discord.gg/congress), where I regularly talk :open_mouth: about stuff related to my projects and all the other random stuff that comes to mind :bulb:.
+You can join my [Discord server](https://discord.gg/p5JBpyN8), where I regularly talk :open_mouth: about stuff related to my projects and all the other random stuff that comes to mind :bulb:.
 
 I'm also currently looking for a job :memo: if you'd like to consider me to be part of your company. You can find my full skillset and resume :spiral_notepad: on my [LinkedIn profile](https://www.linkedin.com/in/hwittenborn/), and if you'd just like to learn more about me too, you can find all of that information over on my [website](https://hunterwittenborn.com) :globe_with_meridians:.
 
